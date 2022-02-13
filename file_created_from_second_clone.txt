@@ -1,2 +1,2 @@
 CONFLICTION
-added text
+added text from first clone
